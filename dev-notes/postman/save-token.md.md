@@ -1,11 +1,13 @@
 # Postman — Save Token Automatically
 
 ### Purpose
+
 Shortcut script to save the token to the environment if the login is successful.
 
 ---
 
-### Script
+### Script (If I need to save token in specific environment)
+
 ```javascript
 let res = pm.response.json();
 
@@ -21,7 +23,25 @@ if (res.success === true && res.data && res.data.token) {
 
 ---
 
-### The response must be in this format.
+### Script (If I need to save token in global variable)
+
+```javascript
+let res = pm.response.json();
+
+if (res.success === true && res.data && res.data.id) {
+    let certificate_id = res.data.id;
+    pm.globals.set("certificate_id", certificate_id); 
+    console.log("Id saved to globals:", certificate_id);
+} else {
+    console.log("Id not found in response");
+}
+
+```
+
+---
+
+### The response must be in this format
+
 ```json
 {
     "success": true,
