@@ -1,46 +1,18 @@
 # Postman — Save Token Automatically
 
-### Purpose
+## Purpose
 
-Shortcut script to save the token to the environment if the login is successful.
+This note explains how to automatically save an authentication **token** from an API response in Postman.
 
----
+When login is successful, the token will be saved in a Postman variable so it can be reused in other API requests.
 
-### Script (If I need to save token in specific environment)
-
-```javascript
-let res = pm.response.json();
-
-if (res.success === true && res.data && res.data.token) {
-    let token = res.data.token;
-    pm.environment.set("token", token);
-    console.log("Token saved to environment:", token);
-} else {
-    console.log("Token not found in response");
-}
-
-```
+This script should be placed inside the **Tests tab** of the login request.
 
 ---
 
-### Script (If I need to save token in global variable)
+# Example Login Response Format
 
-```javascript
-let res = pm.response.json();
-
-if (res.success === true && res.data && res.data.id) {
-    let certificate_id = res.data.id;
-    pm.globals.set("certificate_id", certificate_id); 
-    console.log("Id saved to globals:", certificate_id);
-} else {
-    console.log("Id not found in response");
-}
-
-```
-
----
-
-### The response must be in this format
+Your API response **must follow this structure** for the script to work.
 
 ```json
 {
@@ -50,22 +22,64 @@ if (res.success === true && res.data && res.data.id) {
         "tenant": {
             "id": 17,
             "email": "ab1@gmail.com",
-            "status": "active",
-            "profile": {
-                "id": 9,
-                "tenant_id": 17,
-                "first_name": "John",
-                "middle_name": "A.",
-                "last_name": "Deo",
-                "phone": "1234567890",
-                "country_code": null,
-                "created_at": "2026-01-08T04:03:17.000000Z",
-                "updated_at": "2026-01-08T04:03:17.000000Z"
-            }
+            "status": "active"
         },
-        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL29jX3dvcmtmb3JjZV9sYXJhdmVsLnRlc3QvYXBpL3YxL3RlbmFudC9sb2dpbiIsImlhdCI6MTc2Nzg0NTU5NiwiZXhwIjoxNzcwNDM3NTk2LCJuYmYiOjE3Njc4NDU1OTYsImp0aSI6Ilh4VHpvR2lpdGFpNHNZSWoiLCJzdWIiOiIxNyIsInBydiI6IjQzMjYzMzc1ZjdmZmQ2YTJjZTVmMzhiZTkzOGZkMTJlM2YwNzlmYWUifQ.mhkdqcFIAskKPneg6TtZbc2_nvO3HP7wK3EPDaCrY-oOnly of testing !!!",
+        "token": "your_generated_jwt_token_here",
         "token_type": "Bearer"
     },
     "code": 200
+}
+```
+
+# 1️⃣ Save Token in Environment Variable
+
+### Use this if your project has multiple environments such as
+
+- local
+- staging
+- production
+
+```json
+let res = pm.response.json();
+
+if (res.success === true && res.data && res.data.token) {
+    let token = res.data.token;
+    pm.environment.set("token", token);
+    console.log("Token saved to environment:", token);
+} else {
+    console.log("Token not found in response");
+}
+```
+
+# 2️⃣ Save Token in Collection Variable (Recommended for API Projects)
+
+### If API requests are organized inside a Postman Collection, this is the best option.
+
+```json
+let res = pm.response.json();
+
+if (res.success === true && res.data && res.data.token) {
+    let token = res.data.token;
+    pm.collectionVariables.set("token", token);
+    console.log("Token saved to collection:", token);
+} else {
+    console.log("Token not found in response");
+}
+```
+
+# 3️⃣ Save Token in Global Variable (Not Recommended)
+
+### Global variables are shared across all workspaces and collections, so they may cause conflicts.
+### Use only for quick testing.
+
+```json
+let res = pm.response.json();
+
+if (res.success === true && res.data && res.data.token) {
+    let token = res.data.token;
+    pm.globals.set("token", token);
+    console.log("Token saved to globals:", token);
+} else {
+    console.log("Token not found in response");
 }
 ```
