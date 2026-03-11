@@ -39,7 +39,7 @@ Your API response **must follow this structure** for the script to work.
 - staging
 - production
 
-```json
+```javascript
 let res = pm.response.json();
 
 if (res.success === true && res.data && res.data.token) {
@@ -55,7 +55,7 @@ if (res.success === true && res.data && res.data.token) {
 
 ### If API requests are organized inside a Postman Collection, this is the best option.
 
-```json
+```javascript
 let res = pm.response.json();
 
 if (res.success === true && res.data && res.data.token) {
@@ -72,7 +72,7 @@ if (res.success === true && res.data && res.data.token) {
 ### Global variables are shared across all workspaces and collections, so they may cause conflicts.
 ### Use only for quick testing.
 
-```json
+```javascript
 let res = pm.response.json();
 
 if (res.success === true && res.data && res.data.token) {
