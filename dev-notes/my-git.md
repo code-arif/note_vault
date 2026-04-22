@@ -50,14 +50,77 @@ I specialize in **Laravel backend systems**, **API architecture**, and **modern 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent Projects
 
+*A curated collection of my top 10 projects showcasing my expertise in Full-Stack Development, Laravel, and modern web technologies.*
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/code-arif/Daily-Activity-and-Habit-Tracker-Frontend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=Daily-Activity-and-Habit-Tracker-Frontend&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Daily Tracker Frontend" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/code-arif/whistle-works">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=whistle-works&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Whistle Works" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/code-arif/multi_functional_ecommerce_customer_storefront">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=multi_functional_ecommerce_customer_storefront&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Multi Vendor Ecommerce Customer Front" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-4&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 4" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-5&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 5" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-6&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 6" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-7">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-7&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 7" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-8">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-8&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 8" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-9">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-9&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 9" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/code-arif/project-10">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-10&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 10" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 <p align="center">
-  <a href="https://github.com/code-arif/Daily-Activity-and-Habit-Tracker-Frontend.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=code-arif&repo=Daily-Activity-and-Habit-Tracker-Frontend&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/code-arif/whistle-works">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=code-arif&repo=whistle-works&theme=tokyonight" />
+  <a href="https://github.com/code-arif?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20View%20All%20My%20Projects-100000?style=for-the-badge&logo=github&logoColor=white&color=8a2be2" alt="View All Projects" />
   </a>
 </p>
 
