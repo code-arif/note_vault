@@ -1,199 +1,201 @@
 <p align="center">
-  <img src="https://marketplace.canva.com/EAGW1jzyXdM/1/0/1600w/canva-black-and-gray-minimalist-shapes-personal-profile-linkedin-banner-z3gR0R_Vwes.jpg" alt="Banner" />
+  <img src="https://getshared.com/dashboard/api/files/e49aa813-443d-11f1-8264-ac1f6b763f30/stream?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQyNTkzLCJlbWFpbCI6ImFoc2FudWxsYWhhcmlmdWw2NDYwQGdtYWlsLmNvbSIsImlhdCI6MTc3NzE4NjE1OSwiZXhwIjoxNzc5Nzc4MTU5fQ.7w7Q_nhtnW7z-sO5wvZVYeOKrwLwwN30QrskOg63LwY&t=1777892426139" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ariful Islam</h1>
+<h1 align="center">Hi, I'm Ariful Islam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Professional+Full-Stack+Developer;Laravel+Specialist+%7C+API+Architect;Building+Scalable+Applications;Clean+Code+%7C+Secure+Systems+%7C+High+Performance;Open+to+Freelance+%26+Collaboration" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+JavaScript+%7C+API+Architecture;Building+Scalable+Applications;Clean+Code+%7C+Secure+Systems+%7C+High+Performance" />
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | Laravel Expert | System Architect</h3>
+<p align="center">
+  <a href="https://github.com/code-arif">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="http://codearif.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:arifulislam6460@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<h3 align="center">Full-Stack Developer | Laravel Expert | Vue.js</h3>
 
-## 💡 About Me
+## About Me
 
-I’m a **results-driven Full-Stack Developer** with a strong focus on building **scalable, secure, and high-performance applications**.
+I build scalable backend systems, real-time applications, and modern web platforms using Laravel, Vue.js, and API-driven architecture.
 
-I specialize in **Laravel backend systems**, **API architecture**, and **modern frontend experiences** using Vue.js. My goal is simple:
-👉 Build software that is **fast, reliable, and production-ready**.
+I focus on building software that is:
+- Scalable
+- Secure
+- High-performance
+- Production-ready
 
----
+## Philosophy
 
-## ⚡ What I Bring
+> *"Code is not just written. It's engineered to solve real-world problems efficiently."*
 
-* 🧠 **Backend Engineering**
+## What I Bring
+
+* **Backend Engineering**  
   Scalable APIs, clean architecture, database optimization
 
-* 🎨 **Frontend Development**
+* **Frontend Development**  
   Interactive UI with Vue.js, Tailwind, modern UX
 
-* 🔐 **Security First**
-  Auth systems, API protection, best practices
+* **Security First**  
+  Authentication systems, API protection, secure architecture
 
-* ⚙️ **Performance Optimization**
-  Speed, caching, efficient queries
+* **Performance Optimization**  
+  Caching, optimized queries, scalable application design
 
-* 🔄 **Clean Code**
-  Maintainable, scalable, team-friendly codebase
+* **Clean Code**  
+  Maintainable, scalable, team-friendly codebases
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,tailwind,bootstrap,vite,mysql,postgres,gcp,linux,git" />
+<img src="https://skillicons.dev/icons?i=laravel,vue,php,js,tailwind,bootstrap,vite,mysql,redis,docker,nodejs,git,linux,postman" />
 </a>
 </p>
 
----
+## Currently Working On
 
-## 🚀 Recent Projects
+- Real-time applications with Laravel Reverb
+- Scalable API architecture
+- Event-based social platform
+- Performance optimization and system scalability
+- AI-assisted development workflows
 
-*A curated collection of my top 10 projects showcasing my expertise in Full-Stack Development, Laravel, and modern web technologies.*
+## Recent Projects
 
-<table align="center" style="border: none;">
+*A curated collection of projects showcasing expertise in Full-Stack Development, Laravel, API systems, and scalable web applications.*
+
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 900px; text-align: left;">
   <tr>
-    <td align="center">
-      <a href="https://github.com/code-arif/Daily-Activity-and-Habit-Tracker-Frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=Daily-Activity-and-Habit-Tracker-Frontend&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Daily Tracker Frontend" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; width: 45%;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/oc_workforce_housing_office">Property Management System</a>
+        </li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/code-arif/whistle-works">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=whistle-works&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Whistle Works" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Property lease and tenant management platform.
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/code-arif/multi_functional_ecommerce_customer_storefront">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=multi_functional_ecommerce_customer_storefront&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Multi Vendor Ecommerce Customer Front" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/Daily-Activity-and-Habit-Tracker-Frontend">Daily Activity and Habit Tracker</a>
+        </li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-4&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 4" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Vue.js habit tracker with analytics, task management, and activity logging.
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-5&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 5" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/whistle-works">Whistle Works</a>
+        </li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-6&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 6" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Social audio platform focused on discovery, sharing, and community engagement.
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-7">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-7&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 7" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/multi_functional_ecommerce_customer_storefront">Multi Vendor Ecommerce Customer Storefront</a>
+        </li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-8&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 8" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Laravel and Vue.js storefront for multi-vendor ecommerce platforms.
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-9">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-9&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 9" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/achier_expert_reacti_chat_app">Realtime Chatting Application</a>
+        </li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/code-arif/project-10">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-arif&repo=project-10&theme=tokyonight&show_owner=true&border_radius=10&description_lines_count=2" alt="Project 10" />
-      </a>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Real-time chat platform featuring instant reactions and live communication.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/stream-tube">Video Sharing System (YouTube Mini)</a>
+        </li>
+      </ul>
+    </td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Production-inspired streaming platform with adaptive streaming and scalable backend architecture.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444;">
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="margin: 0; padding: 0; list-style: disc inside;">
+          <a href="https://github.com/code-arif/real-time-chatting-web-app-api">Realtime Chatting Application with PWA</a>
+        </li>
+      </ul>
+    </td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #444; color: #b8c2cc;">
+      Modern real-time chatting application with Progressive Web App support.
     </td>
   </tr>
 </table>
 
 <br/>
+
 <p align="center">
   <a href="https://github.com/code-arif?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20View%20All%20My%20Projects-100000?style=for-the-badge&logo=github&logoColor=white&color=8a2be2" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white&color=8a2be2" alt="View All Projects" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-arif&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=code-arif&theme=tokyonight" />
 </p>
 
----
-
-## ⏱️ Coding Activity (WakaTime)
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=code-arif&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=code-arif&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 🐍 Contribution Snake
+## Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=code-arif&theme=react-dark&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
----
+## Connect With Me
 
-## 🌍 Connect With Me
-
-* 🌐 Portfolio: [codearif.com](http://codearif.com)
-* 📧 Email: [arifulislam6460@gmail.com](mailto:arifulislam6460@gmail.com)
-* 📍 Location: Bangladesh
-
----
-
-## 🧠 Philosophy
-
-> *"Code is not just written — it's engineered to solve real-world problems efficiently."*
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-arif&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-## 🤝 Let's Collaborate
-
-💼 Open for freelance, remote jobs, and collaborations
-🚀 Let’s build something impactful together
-
----
-
-### ⚠️ Final Step (IMPORTANT)
-
-Replace these placeholders:
-
-* `code-arif` → your GitHub username
-* `project1`, `project2` → your real repos
-* `YOUR_WAKATIME_USERNAME` → your WakaTime username
-
----
-
-If you want next upgrade 🔥:
-
-* Add **client testimonials section**
-* Add **real SaaS/project screenshots**
-* Make it **freelancer-conversion optimized (Upwork/Fiverr ready)**
-
-Just tell me 👍
+* Portfolio: [codearif.com](http://codearif.com)
+* Email: [arifulislam6460@gmail.com](mailto:arifulislam6460@gmail.com)
+* Location: Bangladesh
